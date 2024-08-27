@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[./Hospital_Management_System_Dapp/images and videos/Cover.png](https://raw.githubusercontent.com/Mayureshkaulwar/HACKSTREET_TEAM_PHANTOMS/main/Hospital_Management_System_Dapp/images%20and%20videos/Cover.png)" alt="Cover"/>
-</p>
-
 # Decentralised Personal Health Record Application
 
 It is an Ethereum blockchain based database management system for hospital record management.
